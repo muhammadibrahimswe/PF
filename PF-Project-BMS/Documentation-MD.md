@@ -1,4 +1,4 @@
-# Bank Management System (BMS)
+# Bank Management System (BMS) 
 
 ### Programming Fundamentals  --  Semester Project Documentation
 ---
@@ -11,6 +11,7 @@
 | **Platform** | Windows Console Application |
 | **Compiler** | MinGW GCC 6.3.0+ |
 | **IDE** | Visual Studio Code |
+| **Team-Size** | Solo |
 
 ---
 
